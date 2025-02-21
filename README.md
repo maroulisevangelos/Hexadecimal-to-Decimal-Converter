@@ -21,4 +21,6 @@ Usage
   
   The program outputs the corresponding decimal value
   
+
+  
 This project was completed as part of the Computer Systems Organization course during the Winter Semester 2021-2022.
