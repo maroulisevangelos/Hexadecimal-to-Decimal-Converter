@@ -2,8 +2,6 @@
 #	Winter Semester 2021-2022
 #	1st Assignment
 #
-# 	Pseudocode by MARIA TOGANTZH (mst@aueb.gr)
-#
 # 	MIPS Code by Maroulis Evangelos, p3200101@aueb.gr, 3200101
 # 	(Please note your name, e-mail and student id number)
 
